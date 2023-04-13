@@ -1,3 +1,6 @@
 [submodule "yes_no"]
 	path = yes_no
 	url = git@github.com:Dounder/yes_no_flutter.git
+[submodule "toktik"]
+	path = toktik
+	url = git@github.com:Dounder/toktik.git
