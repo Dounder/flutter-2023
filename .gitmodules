@@ -10,3 +10,6 @@
 [submodule "cinemapedia"]
 	path = cinemapedia
 	url = git@github.com:Dounder/cinemapedia.git
+[submodule "forms_app"]
+	path = forms_app
+	url = git@github.com:Dounder/forms_app.git
